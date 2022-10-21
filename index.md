@@ -20,7 +20,7 @@
 
 ---
 [Multi-Agent System](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MAS-gif.gif?raw=true"/>
 
 ---
 
