@@ -15,7 +15,7 @@
 
 ### Master degree Projects
 
-[Neural Architecture Search Algorithm (NAS)]([/sample_page](https://aymeric.digital/neural-architecture-search/))
+[Neural Architecture Search Algorithm (NAS)](/nas_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
