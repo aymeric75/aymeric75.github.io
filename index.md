@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Master degree Projects
 
-[Project 1 Title](/sample_page)
+[Neural Architecture Search Algorithm (NAS)]([/sample_page](https://aymeric.digital/neural-architecture-search/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
