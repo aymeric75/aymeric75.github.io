@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Master Thesis project
 
 **Project description:** This is the result of my master thesis work.
 
