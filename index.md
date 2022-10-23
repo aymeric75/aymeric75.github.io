@@ -19,7 +19,7 @@
 <img src="images/nas-output.jpg?raw=true"/>
 
 ---
-[Multi-Agent System](/pdf/sample_presentation.pdf)
+[Multi-Agent System](/mas_page)
 <img src="images/MAS-gif.gif?raw=true"/>
 
 ---
