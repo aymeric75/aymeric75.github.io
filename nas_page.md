@@ -35,6 +35,12 @@ accuracy, thus amplifying the difference between low and high rewards.
 
 $$Reward(x) = \frac{1}{(1 + exp(-x*A+B))}*C$$
 
+
+<p align="center">
+<img src="images/concavity.png?raw=true" />
+</p>
+
+
 #### 1. Efficient Neural Architecture Search implementation
 
 
