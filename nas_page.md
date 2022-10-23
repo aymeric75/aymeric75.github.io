@@ -35,7 +35,7 @@ accuracy, thus amplifying the difference between low and high rewards.
 
 $$ \text{Reward}(x) = \frac{1}{(1 + \exp(-x*A+B))} \cdot C $$
 
-If we know the accuracy value that separates bads and goods, we can set $\frac{A}{B} = threshold$ making the function changing its cavity at this value.
+If we know the accuracy value that separates bads and goods, we can set $\frac{A}{B} = \text{threshold}$ making the function changing its cavity at this value.
 
 
 <p align="center">
