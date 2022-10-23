@@ -25,7 +25,9 @@ The main idea is to use a neural network (i.e. LSTM) that samples, at each itera
 <img src="images/NAS-paradigm.png?raw=true" width=50% height=auto />
 </p>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Specificity of my implementation
+
+#### 1. hello
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
