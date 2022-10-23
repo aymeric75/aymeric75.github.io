@@ -16,9 +16,10 @@ A [state-of-the-art EEG classifier](https://iopscience.iop.org/article/10.1088/1
 
 ### 3. Technique used
 
-Although the Deep Learning revolution made possible to solve really challenging and breathtaking tasks, it also involved designing more and more complex architectures, which becomes bottleneck in term of manual effort.
+Although the Deep Learning revolution made possible to solve really challenging and breathtaking tasks, it also involved designing more and more complex architectures, which becomes a bottleneck in term of manual effort.
 Neural Architecture Search emerged as a solution to this problem by allowing the automated search for a best architecture.
 
+The main idea is to use a neural network (i.e. LSTM) that samples, at each iteration, a new architecture, test it and compute a reward based on it, and updates its own weights according to the reward. It is basically, Reinforcement Learning used as a search strategy.
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
