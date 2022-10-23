@@ -1,28 +1,20 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This is the result of my master thesis work.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Context
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+ML Classifiers are used in medical research for diverse tasks. Here the goal was to improve on an existing classifier of EEG signals (that identified in which sleep stage the EEG of a newborn corresponded to).
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Problem
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+SOA EEG classifier for this task show an accuracy of around 70%, the model used was finely designed with different versions.
+<img src="images/ansari-network.jpg?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3. Technique used
+
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
