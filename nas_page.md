@@ -27,8 +27,13 @@ The main idea is to use a neural network (i.e. LSTM) that samples, at each itera
 
 ### 4. Specificity of my implementation
 
-#### 1. hello
+#### 1. A new version of the reward function (enhancement on the Performance Estimation Strategy)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Performance estimation in the context of a NAS consists of estimating the performance of the children as accurately as possible.For a NAS to be enough efficient and to learn fast, one must find ways to quickly estimate the accuracy of each child, one biggest challenge in this regard is to clearly separate between promising children and the others. Instead of using the accuracy directly as the reward, one can use the output of an exponential function of the
+accuracy, thus amplifying the difference between low and high rewards.
+
+#### 1. Efficient Neural Architecture Search implementation
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
