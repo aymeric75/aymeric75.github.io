@@ -21,6 +21,10 @@ Neural Architecture Search emerged as a solution to this problem by allowing the
 
 The main idea is to use a neural network (i.e. LSTM) that samples, at each iteration, a new architecture, test it and compute a reward based on it, and updates its own weights according to the reward. It is basically, Reinforcement Learning used as a search strategy.
 
+<p align="center">
+<img src="images/nas-paradigm.png?raw=true" width=50% height=auto />
+</p>
+
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
