@@ -25,7 +25,7 @@ The main idea is to use a neural network (i.e. LSTM) that samples, at each itera
 <img src="images/NAS-paradigm.png?raw=true" width=50% height=auto />
 </p>
 
-### 4. Specificity of my implementation
+### 4. Improvements on NAS
 
 #### 1. A new version of the reward function (enhancement on the Performance Estimation Strategy)
 
@@ -43,7 +43,13 @@ If we know the accuracy value that separates bads and goods, we can set $\frac{A
 </p>
 
 
-#### 1. Efficient Neural Architecture Search implementation
+#### 1. Efficient Neural Architecture Search (ENAS) implementation
 
+ENAS improves the training phase of the children networks by forcing them to share the
+weights for the parts they have in common. This technique uses the principles of
+transfer learning, leveraging the beneficial impact on the training phase by sharing
+weights between similar (but different) architectures.
+
+On the figures, we can see
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
