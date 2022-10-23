@@ -9,7 +9,7 @@ ML Classifiers are used in medical research for diverse tasks. In my thesis, the
 
 ### 2. Problem
 
-A [state-of-the-art EEG classifier](https://iopscience.iop.org/article/10.1088/1741-2552/ab5469/meta) already existed for this task, even though the model used was finely designed with different versions, it shows an accuracy of around 70%, some progress was to be made...
+A [state-of-the-art EEG classifier](https://iopscience.iop.org/article/10.1088/1741-2552/ab5469/meta) already exists for this task, but even though the model used was finely designed, it shows an accuracy of around 70%. Some progress was to be made...
 <p align="center">
 <img src="images/ansari-network.jpg?raw=true" width=50% height=auto />
 </p>
