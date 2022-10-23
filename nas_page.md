@@ -43,7 +43,7 @@ If we know the accuracy value that separates bads and goods, we can set $\frac{A
 </p>
 
 
-#### 1. Efficient Neural Architecture Search (ENAS) implementation
+#### 2. Efficient Neural Architecture Search (ENAS) implementation
 
 ENAS improves the training phase of the children networks by forcing them to share the
 weights for the parts they have in common. This technique uses the principles of
@@ -55,5 +55,15 @@ If one consider the two models below, represented by the red arrows linking the 
 <img src="images/ENAS-DAG-1.png?raw=true" width=40% height=auto />
 <img src="images/ENAS-DAG-2.png?raw=true" width=40% height=auto />
 </p>
+
+
+### 5. Results
+
+
+<p align="middle">
+<img src="images/incre_norew.png?raw=true" width=40% height=auto />
+<img src="images/incre_rew.png?raw=true" width=40% height=auto />
+</p>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
