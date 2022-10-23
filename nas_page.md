@@ -11,9 +11,7 @@ ML Classifiers are used in medical research for diverse tasks. Here the goal was
 
 A [state-of-the-art EEG classifier](https://iopscience.iop.org/article/10.1088/1741-2552/ab5469/meta) already existed for this task, even though the model used was finely designed with different versions, it shows an accuracy of around 70%, some progress was to be made...
 
-
-<img src="images/ansari-network.jpg?raw=true" width=50% height=auto />
-
+<img src="images/ansari-network.jpg?raw=true" width=50% height=auto style="display:block; margin-left:auto; margin-left:right;" />
 
 ### 3. Technique used
 
