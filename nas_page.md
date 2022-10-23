@@ -13,7 +13,11 @@ A [state-of-the-art EEG classifier](https://iopscience.iop.org/article/10.1088/1
 <p align="center">
 <img src="images/ansari-network.jpg?raw=true" width=50% height=auto />
 </p>
+
 ### 3. Technique used
+
+Although the Deep Learning revolution made possible to solve really challenging and breathtaking tasks, it also involved designing more and more complex architectures, which becomes bottleneck in term of manual effort.
+Neural Architecture Search emerged as a solution to this problem by allowing the automated search for a best architecture.
 
 
 ### 4. Provide a basis for further data collection through surveys or experiments
