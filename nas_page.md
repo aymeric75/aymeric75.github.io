@@ -49,8 +49,7 @@ ENAS improves the training phase of the children networks by forcing them to sha
 weights for the parts they have in common. This technique uses the principles of
 transfer learning, leveraging the beneficial impact on the training phase by sharing
 weights between similar (but different) architectures.
-
-On the figures, we can see
+If one consider the two models below, represented by the red arrows linking the nodes of a DAG (each node is a computational layer, e.g. convolutional, pooling etc.), the thick edges represent the weights that are common to both model, and that ENAS will re-use during training.
 
 <p align="middle">
 <img src="images/ENAS-DAG-1.png?raw=true" width=40% height=auto />
