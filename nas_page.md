@@ -33,9 +33,11 @@ The main idea is to use a neural network (i.e. LSTM) that samples, at each itera
 Performance estimation in the context of a NAS consists of estimating the performance of the children as accurately as possible. For a NAS to be enough efficient and to learn fast, one must find ways to quickly estimate the accuracy of each child, one biggest challenge in this regard is to clearly separate between promising children and the others. Instead of using the accuracy directly as the reward, one can use the output of an exponential function of the
 accuracy, thus amplifying the difference between low and high rewards.
 
-$$Reward(x) = \frac{1}{(1 + exp(-x*A+B))}*C $$
+$$ Reward(x) = \frac{1}{(1 + exp(-x*A+B))}*C $$
 
-$$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$
+
+$$ \fract{1}{(1 + exp(-x*A+B))}*C $$
+
 
 If we know the accuracy value that separates bads and goods, we can set $\frac{A}{B} = threshold$ making the function changing its cavity at this value.
 
