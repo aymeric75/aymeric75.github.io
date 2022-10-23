@@ -52,4 +52,9 @@ weights between similar (but different) architectures.
 
 On the figures, we can see
 
+<p align="center">
+<img src="images/ENAS-DAG-1.png?raw=true" width=50% height=auto />
+<img src="images/ENAS-DAG-2.png?raw=true" width=50% height=auto />
+</p>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
