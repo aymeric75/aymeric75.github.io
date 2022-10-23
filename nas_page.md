@@ -4,7 +4,7 @@
 
 ### 1. Context
 
-ML Classifiers are used in medical research for diverse tasks. In my thesis, the goal was to improve on an existing classifier of EEG signals that identifies in which sleep stage an EEG of a newborn corresponds to).
+ML Classifiers are used in medical research for diverse tasks. In my thesis, the goal was to improve on an existing classifier of EEG signals that identifies in which sleep stage an EEG of a newborn corresponds to.
 
 
 ### 2. Problem
