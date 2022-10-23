@@ -37,7 +37,7 @@ $$Reward(x) = \frac{1}{(1 + exp(-x*A+B))}*C$$
 
 
 <p align="center">
-<img src="images/concavity.png?raw=true" />
+<img src="images/concavity.png?raw=true" width=50% height=auto />
 </p>
 
 
