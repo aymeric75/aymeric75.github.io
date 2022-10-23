@@ -10,7 +10,7 @@ ML Classifiers are used in medical research for diverse tasks. Here the goal was
 ### 2. Problem
 
 SOA EEG classifier for this task show an accuracy of around 70%, the model used was finely designed with different versions.
-<img src="images/ansari-network.jpg?raw=true"/>
+<img src="images/ansari-network.jpg?raw=true"width=50% height=auto />
 
 
 ### 3. Technique used
