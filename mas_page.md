@@ -9,15 +9,16 @@ A MAS is a software system that instantiates ”agents” evolving in an environ
 The goal of this course project was to explore various paradigms of MAS in a testbed called the Packet-World, which consist of a 2D grid where each position (square) can be either filled with an object, or an agent (or be empty). The agents have to collect colored packets and bring them to the matching colored destination.
 
 <p align="center">
-<img src="images/task-mas.png?raw=true" width="80%" height=auto />
+<img src="images/task-mas.png?raw=true" width="40%" height=auto />
 </p>
 
 ### 2. Problem
 
 For a MAS to work, several problems have to be taken care of:
 
-- Autonomous behaviour of the agents, i.e. in the simplest scenario, an agent has to be able to pick up a packet and load it at destination
-- 
+- _Autonomous behaviour of the agents_, i.e. in the simplest scenario, an agent has to be able to pick up a packet and load it at destination
+- _Coordination of agents to manage their energy_ : sources of energy are limited and agents must cooperate to access them when they need to
+- _Task delegation to go over constraints_ : as shown in the screenshot above, sometines agents must cooperate to help each other accomplish their task (indeed only same colored agent can move a blocking cube).
 
 ### 3. Solutions
 
