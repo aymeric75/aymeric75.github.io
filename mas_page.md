@@ -22,7 +22,11 @@ For a MAS to work, several problems have to be taken care of:
 
 ### 3. Solutions
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+For each of the problems introduced above, we designed a solution that we instanciated in one of the "World" at our disposal (the code for the visual part was already developed, we had to modified some classes mainly concerning the agent behaviour).
+
+For instance, for the task delegation problem we coded a "gradient" that agents can generate to communicate the other agents that a packet need to be remove, you can see this in action below.
+
+<img src="images/mas-gradient.gif?raw=true"/>
 
 ### 4. Results
 
