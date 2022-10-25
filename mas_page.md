@@ -2,7 +2,7 @@
 
 **Project description:**  [This](https://people.cs.kuleuven.be/~danny.weyns/events/MASE/group_22.pdf) was the project for the course on Multi-Agent System during my master degree
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Context
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,7 +12,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Problem
 
 ```javascript
 if (isAwesome){
@@ -20,11 +20,11 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Solutions
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Results
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
