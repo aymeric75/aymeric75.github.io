@@ -1,6 +1,6 @@
 ## Multi-Agent System project: the packet world
 
-**Project description:** This was the project for the course on Multi-Agent System during my master degree
+**Project description:**  [This](https://people.cs.kuleuven.be/~danny.weyns/events/MASE/group_22.pdf) was the project for the course on Multi-Agent System during my master degree
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
