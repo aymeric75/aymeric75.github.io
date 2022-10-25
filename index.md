@@ -5,9 +5,7 @@
 
 ### Last Jobs in AI
 
-[bullshit job](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+...
 ---
 
 
