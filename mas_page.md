@@ -26,8 +26,9 @@ For each of the problems introduced above, we designed a solution that we instan
 
 For instance, for the task delegation problem we coded a "gradient" that agents can generate to communicate the other agents that a packet need to be remove, you can see this in action below.
 
-<img src="images/mas-gradient.gif?raw=true"/>
-
+<p align="center">
+<img src="images/mas-gradient.gif?raw=true" width="40%" height=auto />
+</p>
 ### 4. Results
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
