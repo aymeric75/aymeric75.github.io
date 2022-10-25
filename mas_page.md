@@ -35,9 +35,3 @@ In order to code these complex behaviour we used a graph representation illustra
 <p align="center">
 <img src="images/mas-graph.png?raw=true" width="30%" height=auto />
 </p>
-
-### 4. Results
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
