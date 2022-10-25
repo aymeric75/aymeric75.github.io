@@ -29,6 +29,13 @@ For instance, for the task delegation problem we coded a "gradient" that agents 
 <p align="center">
 <img src="images/mas-gradient.gif?raw=true" width="40%" height=auto />
 </p>
+
+In order to code these complex behaviour we used a graph representation illustrating the changing between states endowed by the agent. For the task delegation problem, the graph was the following:
+
+<p align="center">
+<img src="images/mas-graph.png?raw=true" width="40%" height=auto />
+</p>
+
 ### 4. Results
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
