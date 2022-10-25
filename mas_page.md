@@ -33,7 +33,7 @@ For instance, for the task delegation problem we coded a "gradient" that agents 
 In order to code these complex behaviour we used a graph representation illustrating the changing between states endowed by the agent. For the task delegation problem, the graph was the following:
 
 <p align="center">
-<img src="images/mas-graph.png?raw=true" width="20%" height=auto />
+<img src="images/mas-graph.png?raw=true" width="30%" height=auto />
 </p>
 
 ### 4. Results
